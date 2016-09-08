@@ -13,7 +13,7 @@ A modified version of the "shapes" example from Chai3D using Boost C++ libraries
 
 ## Ways to improve it
 * Fix known Issues (duh!)
-* Implement stability control algorithms
+* Implement stability control algorithms (eg. passivity-based control).
 * Make the Phantom Omni run under Linux. No coding needed, but the IEEE-1394 version just won't work for me under Linux.
 * Suggest other ways to improve it
 
